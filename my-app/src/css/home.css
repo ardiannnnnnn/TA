@@ -1,0 +1,11 @@
+.background {
+  background-image: url('../asset/unsplash_Yrxr3bsPdS0.png'); /* Ganti 'path_to_your_image.jpg' dengan path ke foto Anda */
+  background-size: cover; /* Sesuaikan ukuran gambar agar selalu mencakup seluruh elemen latar belakang */
+  background-position: center; /* Letakkan gambar di tengah latar belakang */
+  min-height: 100vh; /* Tentukan tinggi minimum latar belakang */
+}
+
+.container{
+  font: white;
+
+}
